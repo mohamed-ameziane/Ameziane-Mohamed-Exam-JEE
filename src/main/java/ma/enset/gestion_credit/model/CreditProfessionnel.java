@@ -10,3 +10,4 @@ public class CreditProfessionnel extends Credit{
     private String motif;
     private String raisonSociale;
 }
+

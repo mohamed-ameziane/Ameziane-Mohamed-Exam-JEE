@@ -36,3 +36,4 @@ public abstract class Credit {
     @OneToMany(mappedBy = "credit", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private List<Remboursement> remboursements;
 }
+

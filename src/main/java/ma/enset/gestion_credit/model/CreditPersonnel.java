@@ -9,3 +9,4 @@ import jakarta.persistence.*;
 public class CreditPersonnel extends Credit{
     private String motif;
 }
+
