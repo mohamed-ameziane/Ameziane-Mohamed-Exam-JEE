@@ -23,3 +23,4 @@ public class Remboursement {
     @ManyToOne
     private Credit credit;
 }
+

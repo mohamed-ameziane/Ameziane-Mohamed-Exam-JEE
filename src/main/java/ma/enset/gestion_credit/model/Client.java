@@ -18,3 +18,4 @@ public class Client {
     @OneToMany(mappedBy = "client")
     private List<Credit> ListCredits;
 }
+
